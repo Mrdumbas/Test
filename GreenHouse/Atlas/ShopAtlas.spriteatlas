@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 385eba0aabb6f0040a375ef4cd076f12, type: 3}
+    - {fileID: 102900000, guid: 4c8a2bf226e2fe7499b91126e29529b0, type: 3}
+    - {fileID: 102900000, guid: 4e652aea32f4dc349a51ad744b17d4fa, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 46bbd840fc140624bb10e5d6777b4f7e, type: 3}
+  - {fileID: 21300000, guid: ad7f4e81516a75f4a8f49f117d636aef, type: 3}
+  - {fileID: 21300000, guid: 76dccc83f112d8646b614b58e0d1a58d, type: 3}
+  - {fileID: 21300000, guid: 9365e793beb749c40a79c40e2bf643e0, type: 3}
+  - {fileID: 21300000, guid: d752d1f3caeaa674ab713e6806d8a290, type: 3}
+  - {fileID: 21300000, guid: f0662fb4defa97d498830c17ec1b5998, type: 3}
+  - {fileID: 21300000, guid: 63e70e55e95cc3f4bac6511b5676d790, type: 3}
+  - {fileID: 21300000, guid: d6be3157ffcc3f14191fc8014f9a1f6e, type: 3}
+  - {fileID: 21300000, guid: f5a1ffc7e7359e64cbded2edc8c0505a, type: 3}
+  - {fileID: 21300000, guid: 7957958822363764e94fbb786aa4da82, type: 3}
+  - {fileID: 21300000, guid: 7729a3a858ffea5498a3a6e0c668871f, type: 3}
+  - {fileID: 21300000, guid: 6255640902e7a464093907b0f7263157, type: 3}
+  - {fileID: 21300000, guid: 868c0189164f59d4484fb41b292d230b, type: 3}
+  - {fileID: 21300000, guid: c0e9646a6e188fb4797de1d52f6a4a75, type: 3}
+  - {fileID: 21300000, guid: c1a0d38b747143c47b83cc9fe5fd6bcc, type: 3}
+  - {fileID: 21300000, guid: 0359cdbbed902f548a2d800d35b68f15, type: 3}
+  - {fileID: 21300000, guid: a4aafeadcab438f42839c8625457d8c2, type: 3}
+  - {fileID: 21300000, guid: 926ed8deabe7dfc47ad9bbfb51129be8, type: 3}
+  - {fileID: 21300000, guid: 574e560f32349fc458a72877f98ce60c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ToltipButton
+  - BlueButton
+  - ShopMiddle
+  - ClueButton
+  - CardGold
+  - CardBronze
+  - ShopTitle
+  - Background
+  - CardSilver
+  - HummerButton
+  - BigTicket
+  - Ticket
+  - ExitButton
+  - PopupArrow
+  - NPC
+  - DynamiteButton
+  - GloveButton
+  - ShopBottom
+  - PoopupMenuMane
+  m_RenderDataMap: {}
+  m_Tag: ShopAtlas
+  m_IsVariant: 0
